@@ -12,8 +12,9 @@ A fun little tool to test different prompt styles using free OpenRouter AI APIs.
 ```bash
 pip install -r requirements.txt
 python app.py  # or open the .ipynb
-Create a .env file with your OpenRouter API key
+```
 
+Create a .env file with your OpenRouter API key
 
 ---
 
