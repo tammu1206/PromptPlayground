@@ -1,4 +1,6 @@
-.env
+# ignore virtual environments
+venv/
 __pycache__/
 *.pyc
 *.ipynb_checkpoints/
+.env
